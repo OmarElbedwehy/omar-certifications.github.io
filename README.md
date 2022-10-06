@@ -1,3 +1,3 @@
 # omar-certifications.github.io
 <h1>Website Link</h1>
-<p>https://omarelbedwehy.github.io/omar-certifications.github.io/<p>
+<a href="https://omarelbedwehy.github.io/omar-certifications.github.io/" target="_blank">Open Website</a>
